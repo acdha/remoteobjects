@@ -1,2 +1,2 @@
-Sphinx==0.6.2
+Sphinx==3.0.4
 github-tools==0.2b1
